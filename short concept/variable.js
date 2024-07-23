@@ -16,13 +16,13 @@
 // esme let or const dono variable ka uuse hota he
 
 
-let score = null
-console.log(typeof score)
-console.log(typeof (score))
+// let score = null
+// console.log(typeof score)
+// console.log(typeof (score))
 
 
-let valueInNumber= Number(score)
-console.log(typeof score)
+// let valueInNumber= Number(score)
+// console.log(typeof score)
 
 /*
 33==> "33"
