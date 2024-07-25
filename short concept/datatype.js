@@ -5,9 +5,9 @@
 // console.log(2+5)
 // console.log("brajesh")
 
-// let name= "brajesh"
-// let age=20
-// let isLoggenId= false
+let name= "brajesh"
+let age=20
+let isLoggenId= false
 
 
 /* prametive data type
