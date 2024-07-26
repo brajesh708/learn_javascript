@@ -16,3 +16,4 @@ console.log(str1+str2)
 
 
 console.log(55+2)
+console.log(5**2)
