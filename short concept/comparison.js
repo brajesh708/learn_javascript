@@ -17,3 +17,5 @@
 //  str ko int me outometic convart kar raha he
 
 
+console.log(null>0);
+console.log(null<0);
