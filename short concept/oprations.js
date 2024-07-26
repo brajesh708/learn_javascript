@@ -33,9 +33,11 @@
 // console.log(1+2+3);
 // console.log(1+2+3+4);
 
-console.log(+true)  
-console.log(true)  
 
-console.log(+false)
-console.log(+false)
+
+// console.log(+true)  
+// console.log(true)  
+
+// console.log(+false)
+// console.log(false)
 
