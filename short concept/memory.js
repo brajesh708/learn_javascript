@@ -26,7 +26,8 @@
 // console.log(userOne);
 // console.log(userTwo);
 
-
+//  this is heap example 
+//  heap me orignal velue me hi chenge hota he 
 let userOne ={
     name:'brajesh',
     age:25,
@@ -36,3 +37,4 @@ let userTwo = userOne
 userTwo.name='raj rajput'
 console.log(userOne);
 console.log(userTwo);
+// end  heap example 
