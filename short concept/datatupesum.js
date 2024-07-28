@@ -8,7 +8,10 @@
 // 4. null
 // 5. undefined
 // 6. sumbol     7. BigInt 
-//         non primative data type
+//         non primative data type (refence data type)
 // 1. array
-// 2. object
+// 2. object (most importnet topic)
 // 3. function
+
+
+//  
