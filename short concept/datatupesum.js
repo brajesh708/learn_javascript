@@ -37,4 +37,21 @@ let useremail;
 const id = Symbol('123')
 const anitherId = Symbol('123')
 
-console.log(id===anitherId);
+// console.log(id===anitherId);
+
+const bigNumber =  232342466456n
+
+// end        primative data type  ya coll by velue
+
+
+const heros = ["rahul", "brajesh"]
+let myobj= {
+    name: "rahul",
+    age: 25,
+
+}
+const myFunction = function(){
+    console.log("hello world");
+}
+
+console.log(typeof bigNumber)
