@@ -40,6 +40,7 @@ const anitherId = Symbol('123')
 // console.log(id===anitherId);
 
 const bigNumber =  232342466456n
+// console.log(typeof bigNumber)
 
 // end        primative data type  ya coll by velue
 
@@ -53,5 +54,24 @@ let myobj= {
 const myFunction = function(){
     console.log("hello world");
 }
+// Numbers:
+let length = 16;
+let weight = 7.5;
 
-console.log(typeof bigNumber)
+// Strings:
+let color = "Yellow";
+let lastName = "Johnson";
+
+// Booleans
+let x = true;
+let y = false;
+
+// Object:
+const person = {firstName:"John", lastName:"Doe"};
+
+// Array object:
+const cars = ["Saab", "Volvo", "BMW"];
+
+// Date object:
+const date = new Date("2022-03-25");
+
