@@ -14,4 +14,15 @@
 // 3. function
 
 
-//  
+//  JavaScript is an object-oriented based programming language.
+//  JavaScript is a dynamically typed language.
+//  JavaScript is a case sensitive language.
+//  JavaScript is a first class function language.
+//  JavaScript is a single threaded language.
+//  JavaScript is a loosely typed language.
+//  JavaScript is a prototype based language.
+//  JavaScript is a functional programming language.
+//  JavaScript is a scripting language.
+//  JavaScript is a multi paradigm language.
+//  JavaScript is a language that can be run on any device that has a browser installed.
+//  JavaScript is a language that can be run on any device that has a Node.js runtime installed
