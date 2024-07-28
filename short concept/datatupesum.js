@@ -26,3 +26,15 @@
 //  JavaScript is a multi paradigm language.
 //  JavaScript is a language that can be run on any device that has a browser installed.
 //  JavaScript is a language that can be run on any device that has a Node.js runtime installed
+
+const score = 100
+const scorevalue = 100.3
+
+const islogged = true
+const outsideTemp= null
+let useremail;
+
+const id = Symbol('123')
+const anitherId = Symbol('123')
+
+console.log(id===anitherId);
