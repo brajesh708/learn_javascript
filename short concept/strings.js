@@ -18,19 +18,28 @@ const gameNmae = newNmae = "brajesh mewada"
 //  string ke method console.log se jakar pade 
 
 
-const newString = gameNmae.substring(2,5)
-console.log(newString);
+// const newString = gameNmae.substring(2,5)
+// console.log(newString);
 
-const new2String = gameNmae.substring(0,5)
-console.log(new2String);
+// const new2String = gameNmae.substring(0,5)
+// console.log(new2String);
 
-const anotherString = gameNmae.slice(-8,2)
-console.log(anotherString);
+// const anotherString = gameNmae.slice(-8,2)
+// console.log(anotherString);
 
-const newStringOne = "   Brajesh  "
-console.log(newStringOne)
-console.log(newStringOne.trim()) // trim funtion space hata deta he
+// const newStringOne = "   Brajesh  "
+// console.log(newStringOne)
+// console.log(newStringOne.trim()) // trim funtion space hata deta he
 
+// console.log(newStringOne.trimStart()) // trimStart funtion left side space hata deta
+// console.log(newStringOne.trimEnd()) // trimEnd funtion right side space hata deta
+
+// const url = "https://brajesh.com/brajesh%20mewada"
+// console.log(url.replace('%20', '_'))
+
+
+console.log(url.includes('sunder'))  // url ke ander sunder he ya nahi == false
+console.log(url.includes('brajesh'))  // url ke ander brajesh he ya nahi == true
 
 
 
