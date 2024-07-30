@@ -19,7 +19,10 @@ const gameNmae = newNmae = "brajesh mewada"
 
 
 const newString = gameNmae.substring(2,5)
+const new2String = gameNmae.substring(0,5)
+
 console.log(newString);
+console.log(new2String);
 
 
 
