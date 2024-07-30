@@ -1,7 +1,7 @@
 // const name= "brajesh"
 // const repoCount = 50
 
-// // console.log(name + repoCount + "value"); //this is od formet
+// // console.log(name + repoCount + "value"); //this is old formet
 // console.log(`Hello my name is ${name} and my repo cout is ${repoCount}`); // this is new formet
 
 const gameNmae = newNmae = "brajesh mewada"
@@ -38,8 +38,8 @@ const gameNmae = newNmae = "brajesh mewada"
 // console.log(url.replace('%20', '_'))
 
 
-console.log(url.includes('sunder'))  // url ke ander sunder he ya nahi == false
-console.log(url.includes('brajesh'))  // url ke ander brajesh he ya nahi == true
+// console.log(url.includes('sunder'))  // url ke ander sunder he ya nahi == false
+// console.log(url.includes('brajesh'))  // url ke ander brajesh he ya nahi == true
 
 
 
