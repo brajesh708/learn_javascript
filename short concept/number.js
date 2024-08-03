@@ -28,3 +28,9 @@
 
 // console.log(Math.random()*100); // math.random me hamesa value 0 se 1
 // console.log(Math.random()*100+1); // math.random me hamesa value 0 se badane ke liye 1 + kar dete he
+
+const min = 10
+const max = 20
+
+console.log(Math.floor(Math.random() * (mix - min + 1)) + min);
+
