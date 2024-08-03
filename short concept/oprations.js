@@ -15,9 +15,10 @@
 // console.log(str1+str2)
 
 
-// console.log(55+2)
-// console.log(5**2)
-// console.log(5**3)
+console.log(55+2)
+console.log(5**2)
+console.log(5**3)
+console.log(5**0.5)  // square root of 5
 
 
 // let str1 = "hello"
