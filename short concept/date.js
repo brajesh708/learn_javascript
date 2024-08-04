@@ -14,3 +14,7 @@
 // console.log(myCrateDate);
 // console.log(myCrateDate1);
 // console.log(myCrateDate2);
+
+
+let myTimeStamp = Date.now();
+console.log(myTimeStamp);   // mili secend me he out put 
