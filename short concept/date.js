@@ -16,5 +16,17 @@
 // console.log(myCrateDate2);
 
 
-let myTimeStamp = Date.now();
-console.log(myTimeStamp);   // mili secend me he out put 
+// let myTimeStamp = Date.now();
+// console.log(myTimeStamp);   // mili secend me he out put 
+
+// console.log(myCrateDate.getTime());  // project me time compare  ke  liye mili secend ka use kare
+
+
+let newDate = new Date()
+console.log(newDate);
+console.log(newDate.getDate())
+console.log(newDate.getDay())  
+console.log(newDate.getMonth())
+
+
+
