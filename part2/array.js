@@ -16,7 +16,9 @@
 // console.log(myHeeros[1]) //krishna
 // console.log(myHeeros[2]) //undefined
 
-
+//  aary ke indexing se use kara jata he
+// aary shello copy banata he
 myArry.push(3)
 console.log(myArry)
+
 
