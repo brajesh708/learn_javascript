@@ -15,6 +15,8 @@
 
 // console.log(Math.round(4.3))
 // console.log(Math.round(4.8)) // round aprosimate value deta he
+console.log(Math.ceil(4.3)) // ceil function upar ke neeche value
+console.log(Math.floor(4.3)) // floor function neeche ke upar value
 
 
 // console.log(Math.ceil(4.2));  // ceil hamesa top velue hi deta he
@@ -29,8 +31,8 @@
 // console.log(Math.random()*100); // math.random me hamesa value 0 se 1
 // console.log(Math.random()*100+1); // math.random me hamesa value 0 se badane ke liye 1 + kar dete he
 
-const min = 10
-const max = 20
+// const min = 10
+// const max = 20
 
-console.log(Math.floor(Math.random() * (mix - min + 1)) + min);
+// console.log(Math.floor(Math.random() * (mix - min + 1)) + min);
 
