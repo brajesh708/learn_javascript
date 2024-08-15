@@ -21,8 +21,9 @@
 // console.log(typeof (score))//o/p = object
 
 
-// let valueInNumber= Number(score)
-// console.log(typeof score)
+let valueInNumber= Number(score)
+console.log(typeof score)
+
 
 /*
 33==> "33"  eska type string hi aata he 

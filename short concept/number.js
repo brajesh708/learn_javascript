@@ -15,8 +15,8 @@
 
 // console.log(Math.round(4.3))
 // console.log(Math.round(4.8)) // round aprosimate value deta he
-console.log(Math.ceil(4.3)) // ceil function upar ke neeche value
-console.log(Math.floor(4.3)) // floor function neeche ke upar value
+// console.log(Math.ceil(4.3)) // ceil function upar ke neeche value
+// console.log(Math.floor(4.3)) // floor function neeche ke upar value
 
 
 // console.log(Math.ceil(4.2));  // ceil hamesa top velue hi deta he
@@ -25,6 +25,8 @@ console.log(Math.floor(4.3)) // floor function neeche ke upar value
 
 // console.log(Math.min(2,3,4,5,6));
 // console.log(Math.max(2,3,4,5,6));
+// console.log(Math.pow(2,3)); // power function
+
 
 // console.log(Math.random()); // math.random me hamesa value 0 se 1 ke bich me hi aati he 
 
