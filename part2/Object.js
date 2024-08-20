@@ -1,6 +1,7 @@
 // singalton object hota  he
 // object.create
 
+
 // object literals
 // const Jsuser = {
 //     name : "brajesh",
@@ -17,5 +18,10 @@
 // console.log(Jsuser["fullName"]); // output brajesh mewada
 
 //  how to define symbol in js
-const sym = Symbol("brajesh");
-console.log(sym);
+// const sym = Symbol("key1");
+// console.log(sym);
+//  this is upstair wrong processces
+
+const sym = Symbol("key1");
+
+
