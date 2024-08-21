@@ -27,14 +27,14 @@ console.log(5**0.5)  // square root of 5
 // console.log(str3)  //hello world
 
 // complec  str + number
-// console.log("1"+2); //12
-// console.log("5"*2); //10
-// console.log("1"-2); //-1
-// console.log(1+2); //3
-// console.log(1+2+"3"); //33
-// console.log("1"+2+"3"); //123
-// console.log(1+2+3);//6
-// console.log(1+2+3+4); //10
+console.log("1"+2); //12
+console.log("5"*2); //10
+console.log("1"-2); //-1
+console.log(1+2); //3
+console.log(1+2+"3"); //33
+console.log("1"+2+"3"); //123
+console.log(1+2+3);//6
+console.log(1+2+3+4); //10
 
 
 
