@@ -8,3 +8,4 @@ const course = {
 console.log(course.name)
 console.log(course["duration"])
 
+

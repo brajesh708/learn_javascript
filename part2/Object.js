@@ -3,13 +3,13 @@
 
 
 // object literals
-// const Jsuser = {
-//     name : "brajesh",
-//     fullName: "brajesh mewada",
-//     age : 20,
-//     email : "brajesh@gmail.com",
-//     isLoggedIn : false
-// }
+const Jsuser = {
+    name : "brajesh",
+    fullName: "brajesh mewada",
+    age : 20,
+    email : "brajesh@gmail.com",
+    isLoggedIn : false
+}
 
 // console.log(Jsuser);
 // console.log(Jsuser.age);
