@@ -72,8 +72,14 @@ const person = {firstName:"John", lastName:"Doe"};
 
 // Array object:
 const cars = ["Saab", "Volvo", "BMW"];
+console.log(cars[0]);
+console.log(myobj.name);
 
 // Date object:
 const date = new Date("2022-03-25");
 console.log(date);
+// end of primative data type
+// end of primative data type
+// end of primative data type
+
 
