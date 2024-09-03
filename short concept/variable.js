@@ -16,9 +16,11 @@
 // esme let or const dono variable ka use hota he bas
 
 
-// let score = null
-// console.log(typeof score)  //o/p = object
-// console.log(typeof (score))//o/p = object
+let score = null
+console.log(typeof score)  //o/p = object
+console.log(typeof (score))//o/p = object
+// typeof function ka use variable ke type ko pata karna hota he
+
 
 
 let valueInNumber= Number(score)
