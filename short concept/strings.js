@@ -18,8 +18,14 @@
 //  string ke method console.log se jakar pade 
 
 
-// const newString = gameNmae.substring(2,5)
-// console.log(newString);
+const newString = gameNmae.substring(2,5)
+console.log(newString);
+console.log(gameNmae.slice(2,5)); //slice method use karega
+console.log(gameNmae.slice(-3)); // -3 se last 3 char use kare
+console.log(gameNmae.slice(2,-3)); // 2 se last 3 char use
+console.log(gameNmae.slice(2,5,7)); // error
+
+
 
 // const new2String = gameNmae.substring(0,5)
 // console.log(new2String);
