@@ -37,11 +37,18 @@ let useremail;
 
 const id = Symbol('123')
 const anitherId = Symbol('123')
+const id1 = Symbol('123')
+const id2 = Symbol('123')
+
 
 // console.log(id===anitherId);
 
 const bigNumber =  232342466456n
+const bigNumber1 =  232342466456n
+const bigNumber2 =  232342466456n
 // console.log(typeof bigNumber)
+console.log(bigNumber === bigNumber1)
+console.log(bigNumber === bigNumber2)
 
 // end        primative data type  ya coll by velue
 
@@ -50,6 +57,11 @@ const heros = ["rahul", "brajesh"]
 let myobj= {
     name: "rahul",
     age: 25,
+    address:{
+        street: "street1",
+        city: "city1",
+        state: "state1",
+        },
 
 }
 const myFunction = function(){

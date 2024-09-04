@@ -10,6 +10,7 @@ const Jsuser = {
     email : "brajesh@gmail.com",
     
     isLoggedIn : false
+    
 
 }
 
