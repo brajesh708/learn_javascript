@@ -1,0 +1,16 @@
+JavaScript is the world's most popular programming language.
+
+JavaScript is the programming language of the Web.
+
+JavaScript is easy to learn.
+
+This tutorial will teach you JavaScript from basic to advanced.
+
+js file ko runkarne ke liye === node eske bad file ka name likthe he 
+
+node fist.py
+
+js me var ka use nahi hota he 
+esme let or const dono variable ka uuse hota he
+
+date ka date type obeject  hota  he imp 
