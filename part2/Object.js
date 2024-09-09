@@ -26,5 +26,8 @@ const Jsuser = {
 //  this is upstair wrong processces
 
 const sym = Symbol("key1");
+console.log(sym);
+console.log(Jsuser[sym]); // output undefined
+
 
 
