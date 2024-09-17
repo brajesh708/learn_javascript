@@ -3,10 +3,10 @@
 // console.log(value)
 // console.log(negValue)
 
-// console.log(2+2)
-// console.log(2-2)
-// console.log(2*2)
-// console.log(2/2)
+console.log(2+2)
+console.log(2-2)
+console.log(2*2)
+console.log(2/2)
 
 
 // let str1 = "hello"
@@ -35,6 +35,7 @@ console.log(1+2+"3"); //33
 console.log("1"+2+"3"); //123
 console.log(1+2+3);//6
 console.log(1+2+3+4); //10
+
 
 
 
