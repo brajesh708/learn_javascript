@@ -3,13 +3,57 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="./index.css">
+    <title>Simple Calculator</title>
+    <style>
+        input[type="text"] {
+            width: 100px;
+            margin: 5px;
+        }
+    </style>
 </head>
 <body>
-    <script src="./fist.js"></script>
 
-    <h1>this is my JS site</h1>
-     <h4>this is live project</h4>
+    <h1>Simple Calculator</h1>
+    <input type="text" id="num1" placeholder="Number 1">
+    <input type="text" id="num2" placeholder="Number 2">
+    <br>
+    <button onclick="calculate('+')">+</button>
+    <button onclick="calculate('-')">-</button>
+    <button onclick="calculate('*')">*</button>
+    <button onclick="calculate('/')">/</button>
+    <br>
+    <h2 id="result">Result: </h2>
+
+    <script>
+        function calculate(operator) {
+            const num1 = parseFloat(document.getElementById('num1').value);
+            const num2 = parseFloat(document.getElementById('num2').value);
+            let result;
+
+            switch (operator) {
+                case '+':
+                    result = num1 + num2;
+                    break;
+                case '-':
+                    result = num1 - num2;
+                    break;
+                case '*':
+                    result = num1 * num2;
+                    break;
+                case '/':
+                    if (num2 !== 0) {
+                        result = num1 / num2;
+                    } else {
+                        result = 'Error: Division by zero';
+                    }
+                    break;
+                default:
+                    result = 'Invalid operation';
+            }
+
+            document.getElementById('result').innerText = 'Result: ' + result;
+        }
+    </script>
+
 </body>
 </html>
