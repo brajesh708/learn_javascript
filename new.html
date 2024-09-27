@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <h1>Welcome to the Calculator App</h1>
+    \begin{pre}
+    #include <iostream>
+    using namespace std;
+    
+    int main() {
+        double num1, num2, result;
+        char operation;
+        
+        cout << "Enter first number: ";
+        cin >> num1;
+        
+        cout << "Enter operator (+, -, *, /): ";
+        cin >> operation;
+        
+        cout << "Enter second number: ";
+        cin >> num2;
+        
+        switch(operation) {
+            case '+':
+                result = num1 + num2;
+                break;
+            case '-':
+                result = num1 - num2;
+                break;
+            case '*':
+                result = num1 * num2;
+                break;
+            case '/':
+                if(num2 != 0) {
+                    result = num1 / num2;
+                } else {
+                    cout << "Error: Division by zero" << endl;
+                    return 0;
+                }
+                break;
+            default:
+                cout << "Error: Invalid operator" << endl;
+                return 0;
+        }
+        
+        cout << "Result: " << result << endl
+        
+        return 0;
+        }
+        \end{pre}
+        
+</body>
+</html>
