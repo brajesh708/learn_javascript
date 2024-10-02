@@ -7,8 +7,11 @@ form.addEventListener('submit', (e) => {
     const username = document.getElementById('username').value;
     const password = document.getElementById('password').value;
 
+
+
     if (username === '' || password === '') {
         errorMessage.textContent = 'Please fill in all fields.';
+        
         return;
     }
 
