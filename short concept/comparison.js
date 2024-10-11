@@ -2,12 +2,12 @@
 // same data type ko compair  kare 
 // type script alag data type  ko compair karna alow nahi karta he
 
-// console.log(2>1);
-// console.log(2>=1);
-// console.log(2<1);
-// console.log(2<!1);
-// console.log(2>!1);
-// console.log(2==1);
+console.log(2>1);
+console.log(2>=1);
+console.log(2<1);
+console.log(2<!1);
+console.log(2>!1);
+console.log(2==1);
 
 // console.log("2"<1);
 // console.log(2<1);
