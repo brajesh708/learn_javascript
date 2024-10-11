@@ -11,9 +11,9 @@
 // let myCrateDate = new Date("2023-01-23");
 
 
-// console.log(myCrateDate);
-// console.log(myCrateDate1);
-// console.log(myCrateDate2);
+console.log(myCrateDate);
+console.log(myCrateDate1);
+console.log(myCrateDate2);
 
 
 // let myTimeStamp = Date.now();

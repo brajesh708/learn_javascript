@@ -43,55 +43,55 @@ const id2 = Symbol('123')
 
 // console.log(id===anitherId);
 
-const bigNumber =  232342466456n
-const bigNumber1 =  232342466456n
-const bigNumber2 =  232342466456n
-// console.log(typeof bigNumber)
-console.log(bigNumber === bigNumber1)
-console.log(bigNumber === bigNumber2)
+// const bigNumber =  232342466456n
+// const bigNumber1 =  232342466456n
+// const bigNumber2 =  232342466456n
+// // console.log(typeof bigNumber)
+// console.log(bigNumber === bigNumber1)
+// console.log(bigNumber === bigNumber2)
 
-// end        primative data type  ya coll by velue
+// // end        primative data type  ya coll by velue
 
 
-const heros = ["rahul", "brajesh"]
-let myobj= {
-    name: "rahul",
-    age: 25,
-    address:{
-        street: "street1",
-        city: "city1",
-        state: "state1",
-        },
+// const heros = ["rahul", "brajesh"]
+// let myobj= {
+//     name: "rahul",
+//     age: 25,
+//     address:{
+//         street: "street1",
+//         city: "city1",
+//         state: "state1",
+//         },
 
-}
-const myFunction = function(){
-    console.log("hello world");
-}
-// Numbers:
-let length = 16;
-let weight = 7.5;
+// }
+// const myFunction = function(){
+//     console.log("hello world");
+// }
+// // Numbers:
+// let length = 16;
+// let weight = 7.5;
 
-// Strings:
-let color = "Yellow";
-let lastName = "Johnson";
+// // Strings:
+// let color = "Yellow";
+// let lastName = "Johnson";
 
-// Booleans
-let x = true;
-let y = false;
+// // Booleans
+// let x = true;
+// let y = false;
 
-// Object:
-const person = {firstName:"John", lastName:"Doe"};
+// // Object:
+// const person = {firstName:"John", lastName:"Doe"};
 
-// Array object:
-const cars = ["Saab", "Volvo", "BMW"];
-console.log(cars[0]);
-console.log(myobj.name);
+// // Array object:
+// const cars = ["Saab", "Volvo", "BMW"];
+// console.log(cars[0]);
+// console.log(myobj.name);
 
-// Date object:
-const date = new Date("2022-03-25");
-console.log(date);
-// end of primative data type
-// end of primative data type
-// end of primative data type
+// // Date object:
+// const date = new Date("2022-03-25");
+// console.log(date);
+// // end of primative data type
+// // end of primative data type
+// // end of primative data type
 
 
