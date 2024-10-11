@@ -1,14 +1,14 @@
 
-// let myDate= new Date()
-// console.log(myDate.toString());
-// console.log(myDate.toLocaleString());
-// console.log(myDate.toDateString());
-// console.log(typeof myDate);  // yaha ek object type he 
+let myDate= new Date()
+console.log(myDate.toString());
+console.log(myDate.toLocaleString());
+console.log(myDate.toDateString());
+console.log(typeof myDate);  // yaha ek object type he 
 
 
-// let myCrateDate1 = new Date(2024 , 1 , 9);
-// let myCrateDate2 = new Date(2024 , 1 , 9 , 3 ,3);
-// let myCrateDate = new Date("2023-01-23");
+let myCrateDate1 = new Date(2024 , 1 , 9);
+let myCrateDate2 = new Date(2024 , 1 , 9 , 3 ,3);
+let myCrateDate = new Date("2023-01-23");
 
 
 console.log(myCrateDate);
