@@ -11,6 +11,7 @@ class Menu {
     // Remove a menu item by name
     removeItem(name) {
       this.items = this.items.filter(item => item.name !== name);
+      
     }
   
     // Display all menu items

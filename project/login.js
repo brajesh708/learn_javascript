@@ -18,7 +18,7 @@ form.addEventListener('submit', (e) => {
     // Simple authentication (in a real-world scenario, you'd want to use a secure authentication mechanism)
     if (username === 'admin' && password === 'password') {
         alert('Login successful!');
-        // Redirect to a dashboard or another page
+    
     } else {
         errorMessage.textContent = 'Invalid username or password.';
     }
