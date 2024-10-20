@@ -10,6 +10,7 @@ let age=20
 let isLoggenId= false
 
 
+
 /* prametive data type
 // number => 2 to power 53
 // bigint 
@@ -20,6 +21,8 @@ let isLoggenId= false
 // symbol ==> unique ness ke liye use karte he 
 */
 console.log(typeof null);
+
+
 //  null ek prametive data type he but nikalne par object show karta he ye js ka upbad he
 
 /* object data type
