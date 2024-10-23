@@ -28,13 +28,13 @@ console.log(Math.max(2,3,4,5,6));
 console.log(Math.pow(2,3)); // power function
 
 
-// console.log(Math.random()); // math.random me hamesa value 0 se 1 ke bich me hi aati he 
+console.log(Math.random()); // math.random me hamesa value 0 se 1 ke bich me hi aati he 
 
-// console.log(Math.random()*100); // math.random me hamesa value 0 se 1
-// console.log(Math.random()*100+1); // math.random me hamesa value 0 se badane ke liye 1 + kar dete he
+console.log(Math.random()*100); // math.random me hamesa value 0 se 1
+console.log(Math.random()*100+1); // math.random me hamesa value 0 se badane ke liye 1 + kar dete he
 
-// const min = 10
-// const max = 20
+const min = 10
+const max = 20
 
-// console.log(Math.floor(Math.random() * (mix - min + 1)) + min);
+console.log(Math.floor(Math.random() * (mix - min + 1)) + min);
 
