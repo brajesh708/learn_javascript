@@ -40,12 +40,12 @@ console.log(gameNmae.slice(2,5,7)); // error
 // console.log(newStringOne.trimStart()) // trimStart funtion left side space hata deta
 // console.log(newStringOne.trimEnd()) // trimEnd funtion right side space hata deta
 
-// const url = "https://brajesh.com/brajesh%20mewada"
-// console.log(url.replace('%20', '_'))
+const url = "https://brajesh.com/brajesh%20mewada"
+console.log(url.replace('%20', '_'))
 
 
-// console.log(url.includes('sunder'))  // url ke ander sunder he ya nahi == false
-// console.log(url.includes('brajesh'))  // url ke ander brajesh he ya nahi == true
+console.log(url.includes('sunder'))  // url ke ander sunder he ya nahi == false
+console.log(url.includes('brajesh'))  // url ke ander brajesh he ya nahi == true
 
 
 

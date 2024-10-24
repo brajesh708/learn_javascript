@@ -11,12 +11,12 @@
 // console.log(Math);
 
 
-// console.log(Math.abs(-4));  //abs nagative value ko positive karta he
+console.log(Math.abs(-4));  //abs nagative value ko positive karta he
 
-// console.log(Math.round(4.3))
-// console.log(Math.round(4.8)) // round aprosimate value deta he
-// console.log(Math.ceil(4.3)) // ceil function upar ke neeche value
-// console.log(Math.floor(4.3)) // floor function neeche ke upar value
+console.log(Math.round(4.3))
+console.log(Math.round(4.8)) // round aprosimate value deta he
+console.log(Math.ceil(4.3)) // ceil function upar ke neeche value
+console.log(Math.floor(4.3)) // floor function neeche ke upar value
 
 
 // console.log(Math.ceil(4.2));  // ceil hamesa top velue hi deta he
