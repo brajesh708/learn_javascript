@@ -1,7 +1,7 @@
 // const score = 300
 
-// const blance = new Number(100)
-// console.log(blance)
+const blance = new Number(100)
+console.log(blance)
 
 //  js me number ke under bahut sari method hoti he
 
@@ -19,8 +19,8 @@ console.log(Math.ceil(4.3)) // ceil function upar ke neeche value
 console.log(Math.floor(4.3)) // floor function neeche ke upar value
 
 
-// console.log(Math.ceil(4.2));  // ceil hamesa top velue hi deta he
-// console.log(Math.floor(4.9));  // ceil hamesa doun velue hi deta he
+console.log(Math.ceil(4.2));  // ceil hamesa top velue hi deta he
+console.log(Math.floor(4.9));  // ceil hamesa doun velue hi deta he
 
 
 console.log(Math.min(2,3,4,5,6));
