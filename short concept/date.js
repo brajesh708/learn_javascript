@@ -26,7 +26,10 @@ let newDate = new Date()
 console.log(newDate);
 console.log(newDate.getDate())
 console.log(newDate.getDay())  
+console.log(newDate.getFullYear())
+console.log(newDate.getMonth())  // this will give month number from 0 to 11
 console.log(newDate.getMonth()) 
+
 
 
 
