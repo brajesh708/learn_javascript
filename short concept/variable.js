@@ -28,6 +28,7 @@ console.log(typeof score)
 
 
 
+
 // 33==> "33"  eska type string hi aata he 
 // "33abc"==> Nan
 // True==> 1;  
