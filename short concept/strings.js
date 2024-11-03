@@ -15,6 +15,7 @@ console.log(gameNmae.indexOf('h'));
 
 
 
+
 //  string ke method console.log se jakar pade 
 
 

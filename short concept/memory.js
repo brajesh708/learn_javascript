@@ -14,26 +14,28 @@
 // let myname='brajesh'
 // anothername='raj rajput'
 
-// console.log(myname);
-// console.log(anothername);
+console.log(myname);
+console.log(anothername);
 
+
+let userOne ={
+    name:'brajesh',
+    age:25,
+
+}
+
+let userTwo = userOne
+console.log(userOne);
+console.log(userTwo);
+
+//  this is heap example 
+//  heap me orignal velue me hi chenge hota he 
 // let userOne ={
 //     name:'brajesh',
 //     age:25,
 
 // }
 // let userTwo = userOne
-// console.log(userOne);
-// console.log(userTwo);
-
-//  this is heap example 
-//  heap me orignal velue me hi chenge hota he 
-let userOne ={
-    name:'brajesh',
-    age:25,
-
-}
-let userTwo = userOne
 userTwo.name='raj rajput'
 console.log(userOne);
 console.log(userTwo);

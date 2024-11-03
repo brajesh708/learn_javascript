@@ -36,5 +36,8 @@ console.log(Math.random()*100+1); // math.random me hamesa value 0 se badane ke 
 const min = 10
 const max = 20
 
+
 console.log(Math.floor(Math.random() * (mix - min + 1)) + min);
+console.log(Math.floor(Math.random() * (mix - min - 1)) + min);
+
 
