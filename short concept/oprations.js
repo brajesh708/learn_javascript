@@ -39,9 +39,9 @@ console.log(1+2+3+4); //10
 
 
 
-// console.log(+true)   //1
-// console.log(true)  //true
+console.log(+true)   //1
+console.log(true)  //true
 
-// console.log(+false) //0
-// console.log(false) // false
+console.log(+false) //0
+console.log(false) // false
 
