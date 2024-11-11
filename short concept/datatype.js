@@ -2,8 +2,8 @@
  
 // alert("hello")  // we are using node.js , not broser
 
-// console.log(2+5)
-// console.log("brajesh")
+console.log(2+5)
+console.log("brajesh")
 
 let name= "brajesh"
 let age=20
